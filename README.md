@@ -1,7 +1,7 @@
 # PONG
 Clone of pong
 
-##Installation
+## Installation
 Clone in VS code. run make command to compile and then run main.exe to run program.
 
 ## Exmaple
